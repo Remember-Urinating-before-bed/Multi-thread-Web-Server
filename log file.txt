@@ -1,0 +1,11 @@
+127.0.0.1 Sun, 17 Apr 2022 21:02:45 GMT  helloworld.html 200 OK
+127.0.0.1 Sun, 17 Apr 2022 21:02:48 GMT  helloworld.html 200 OK
+127.0.0.1 Sun, 17 Apr 2022 21:27:19 GMT  helloworld.html 200 OK
+127.0.0.1 Sun, 17 Apr 2022 21:37:45 GMT  text.txt 200 OK
+127.0.0.1 Sun, 17 Apr 2022 21:43:15 GMT  photo.png 200 OK
+127.0.0.1 Sun, 17 Apr 2022 21:58:12 GMT  helloworld.html 200 OK
+127.0.0.1 Sun, 17 Apr 2022 21:58:19 GMT  helloworld.html 304 NOT MODIFIED
+127.0.0.1 Sun, 17 Apr 2022 21:58:35 GMT  hellow.html 404 NOT FOUND
+127.0.0.1 Sun, 17 Apr 2022 22:06:35 GMT  helloworld.html 400 BAD REQUEST
+127.0.0.1 Sun, 17 Apr 2022 22:12:41 GMT  helloworld.html 200 OK
+127.0.0.1 Sun, 17 Apr 2022 22:24:18 GMT  helloworld.html 200 OK
